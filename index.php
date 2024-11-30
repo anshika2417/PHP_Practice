@@ -6,9 +6,8 @@
 <body>
     
     <?php
-    
-        phpinfo();
-    
+        //Line Break Function
+        echo nl2br("My name is Anshika \r\n and I'm Indian");
     ?>
 
 </body>
